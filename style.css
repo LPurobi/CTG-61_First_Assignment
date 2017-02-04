@@ -1,0 +1,98 @@
+.Wrapper{
+	border: 2px solid red;
+	margin: 0 auto;
+}
+.header{
+	border: 2px solid red;
+	overflow: hidden;
+	height: 100px;
+	background: orange;
+}
+
+.slider{
+	border: 2px solid red;
+	overflow: hidden;
+	height: 200px;
+
+}
+
+.content{
+	border: 2px solid red;
+}
+	
+
+.service{
+	border: 2px solid red;
+}
+
+.footer{
+	border: 2px solid red;
+}
+
+.search{
+	border: 2px solid red;
+	width: 20%;
+	float: right;
+	height: 100px;
+}
+
+.logo{
+	border: 2px solid red;
+	width: 20%;
+	float: left;
+	height: 100px;
+
+}
+
+.menu{
+	border: 2px solid red;
+	width: 50%;
+	float: left;
+	margin-left: 80px;
+	height: 100px;
+}
+
+.slider_content{
+	border: 2px solid red;
+	height: 200px;
+	width: 58%;
+	float: left;
+}
+
+.slider_image{
+	border: 2px solid red;
+	height: 200px;
+	width: 38%;
+	float: right;
+
+}
+
+.con{
+	border: 2px solid red;
+	height: 200px;
+	display: inline-block;
+	margin-left: 10px;
+	width: 24%;
+}
+.ser{
+	border: 2px solid red;
+	display: inline-block;
+	height: 200px;
+	width: 30%;
+	margin-left: 20px;
+}
+.contact{
+	border: 2px solid red;
+	display: inline-block;
+	height: 50px;
+	width: 38%;
+
+}
+
+.map{
+	border: 2px solid red;
+	display: inline-block;
+	height: 50px;
+	width: 58%;
+
+}
